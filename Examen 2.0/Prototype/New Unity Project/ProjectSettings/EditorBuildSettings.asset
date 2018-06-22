@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/HoofdMeting.unity
+    guid: bd32f65c4f2c2bb459e0f3263194cc6e
+  - enabled: 0
+    path: Assets/_Scenes/Bullet Catch.unity
+    guid: 24179b4a2c3b43b4cbb194f0d6ef611b
+  - enabled: 1
+    path: Assets/_Scenes/VR nek.unity
+    guid: dd73fdf38c2bc2b41ae8a02194965664
